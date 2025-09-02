@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @subhcal
-- 👀 I’m interested in Data Science Field.
-- 🌱 I’m currently learning Data Science.
-- 💞️ I’m looking to collaborate in Data-related roles.
-- 📫 How to reach me ...
-- 😄 Pronouns: 'He'
-- ⚡ Fun fact: ...
+# Hi there, I'm Yash Raj as (Subhcal)! 👋
 
-<!---
-subhcal/subhcal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m passionate about the **Data Science** field.
+- 🌱 Currently diving deep into learning **Data Science** and honing my skills.
+- 💞️ Looking to collaborate on exciting **data-related projects** and roles.
+- 📫 Feel free to reach out to me via [mailto:subhcal2000@gmail.com].
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love turning raw data into meaningful insights that drive decisions!
+
+---
+
+Thanks for stopping by my profile! Let's connect and explore the world of data together.
